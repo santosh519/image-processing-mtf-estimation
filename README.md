@@ -2,7 +2,7 @@
 
 This repository contains a complete MATLAB workflow for calculating the **Modulation Transfer Function (MTF)** from a high-resolution satellite image. The analysis is based on a panchromatic band of **IKONOS imagery acquired on August 1, 2005**. The workflow includes edge detection, Edge Spread Function (ESF) oversampling and smoothing, Line Spread Function (LSF) generation, and final MTF derivation.
 
-> **Note**: The image data used in this project is licensed and cannot be redistributed. However, the panchromatic IKONOS data used in this project can be downloaded from the respective data provider's website for authorized users.
+> **Note**: The image data used in this project is licensed and cannot be redistributed. However, the panchromatic IKONOS data used in this project can be downloaded from USGS Earth Explorer, European Space Agency (ESA) Archive or Maxar Technologies for authorized users.
 
 ---
 
