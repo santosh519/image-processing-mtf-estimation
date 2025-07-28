@@ -68,6 +68,15 @@ This repository contains a complete MATLAB workflow for calculating the **Modula
 
 This code was developed and tested using **IKONOS panchromatic imagery (1m resolution)**, acquired on **August 1, 2005**. Due to licensing restrictions, the image cannot be shared publicly. Interested users should obtain access through authorized vendors.
 
+## 👤 Author & Contact
+Santosh Adhikari
+
+Email: santadh2015@gmail.com
+
+GitHub: @santosh519
+
+Thank you for reviewing! Feedback and contributions are welcome.
+
 Once obtained, place the `.tif` file in the appropriate folder as specified in the script under:
 
 ```matlab
